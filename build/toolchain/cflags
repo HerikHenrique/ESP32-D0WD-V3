@@ -1,0 +1,6 @@
+-Wno-frame-address
+-mlongcalls
+-fno-builtin-memcpy
+-fno-builtin-memset
+-fno-builtin-bzero
+"-specs=C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/specs/picolibc.specs"

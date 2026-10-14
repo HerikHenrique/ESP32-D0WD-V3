@@ -69,6 +69,8 @@ C:/esp/v6.1/esp-idf/components/esp_phy/lib/esp32/libphy.a
 C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/esp_netif/libesp_netif.a
 C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/wpa_supplicant/libwpa_supplicant.a
 C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/esp_coex/libesp_coex.a
+C:/esp/v6.1/esp-idf/components/esp_coex/lib/esp32/libcoexist.a
+C:/esp/v6.1/esp-idf/components/bt/controller/lib_esp32/esp32/libbtdm_app.a
 C:/esp/v6.1/esp-idf/components/esp_wifi/lib/esp32/libcore.a
 C:/esp/v6.1/esp-idf/components/esp_wifi/lib/esp32/libespnow.a
 C:/esp/v6.1/esp-idf/components/esp_wifi/lib/esp32/libmesh.a
@@ -130,6 +132,7 @@ C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/e
 C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/esp_wifi/libesp_wifi.a
 C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/esp_driver_spi/libesp_driver_spi.a
 C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/esp_gdbstub/libesp_gdbstub.a
+C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/bt/libbt.a
 C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/esp_driver_spi/libesp_driver_spi.a
 C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/unity/libunity.a
 C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/cmock/libcmock.a
@@ -176,6 +179,7 @@ C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/e
 C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/esp_hal_emac/libesp_hal_emac.a
 C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/esp_hal_lcd/libesp_hal_lcd.a
 C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/esp_hid/libesp_hid.a
+C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/bt/libbt.a
 C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/tcp_transport/libtcp_transport.a
 C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/esp_http_client/libesp_http_client.a
 C:/Users/Herik Pro/Documents/workspace/Esp32 novo/.vscode/sample_project/build/esp-idf/esp_http_server/libesp_http_server.a
